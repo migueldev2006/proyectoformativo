@@ -1,64 +1,63 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
 }
-body{
-    background-color: #083353;
+body {
+  background-color: #083353;
 }
-.formulario{
-    position: absolute;
-    top: 15%;
-    left: 28%;
-    border: solid 5px #25FC02;
-    padding: 40px 100px;
+.formulario {
+  position: absolute;
+  top: 15%;
+  left: 28%;
+  border: solid 5px #25fc02;
+  padding: 40px 100px;
 }
-.formulario img{
-    position: relative;
-    right: 10%;
+.formulario img {
+  position: relative;
+  right: 10%;
 }
-.formulario h1{
-    text-align: center;
-    padding: 0px 0px 20px 0px;
-    font-size: 50px;
-    color: #FFF;
+.formulario h1 {
+  text-align: center;
+  padding: 0px 0px 20px 0px;
+  font-size: 50px;
+  color: #fff;
 }
-.formulario p{
-    font-size: 25px;
-    color: #FFF;
-    text-align: center;
+.formulario p {
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
 }
-form .cambiar{
-    position: relative;
-    margin: 90px 0px 20px 0px;
+form .cambiar {
+  position: relative;
+  margin: 90px 0px 20px 0px;
 }
-.cambiar input{
-    position: relative;
-    left: 15%;
-    width: 70%;
-    height: 60px;
-    border-radius: 25px;
-    text-align: justify;
-    padding: 0px 0px 0px 20px;
+.cambiar input {
+  position: relative;
+  left: 15%;
+  width: 70%;
+  height: 60px;
+  border-radius: 25px;
+  text-align: justify;
+  padding: 0px 0px 0px 20px;
 }
-.cambiar label{
-    position: absolute;
-    bottom: 80px;
-    cursor: pointer;
-    color: #FFF;
-    font-size: 25px;
+.cambiar label {
+  position: absolute;
+  bottom: 80px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 25px;
 }
-.boton{
-    position: relative;
-    left: 25%;
-    width: 50%;
-    height: 50px;
-    border-radius: 15px;
-    margin: 30px 0px;
-    background-color: #25FC02;
-    color: #083353;
-    font-size: 30px;
-    cursor: pointer;
-    
+.boton {
+  position: relative;
+  left: 25%;
+  width: 50%;
+  height: 50px;
+  border-radius: 15px;
+  margin: 30px 0px;
+  background-color: #25fc02;
+  color: #083353;
+  font-size: 30px;
+  cursor: pointer;
 }
